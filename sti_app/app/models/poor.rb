@@ -1,0 +1,1 @@
+class Poor < Client; end

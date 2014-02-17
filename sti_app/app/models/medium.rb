@@ -1,0 +1,1 @@
+class Medium < Client; end
